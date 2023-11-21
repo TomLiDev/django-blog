@@ -32,6 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-tomlidev-django-blog-sm991txn7g.us2.codeanyapp.com',
                  '8001-tomlidev-django-blog-sm991txn7g.us2.codeanyapp.com',
+                 'toms-django-blog-a72c33cb5a1f.herokuapp.com',
                  'toms-django-blog.heroku.com', 'localhost']
 
 
